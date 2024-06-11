@@ -33,7 +33,7 @@
     },
     "STRING_SESSION": {
       "description": "هنا ضع كود سيشن تيليثون او بايروجرام كود تيرمكس الخاص بك",
-      "value": "",
+      "value": "AgF83VAAN9FpfzDDrzsdKdl0n1G_pftlgfswUMhp85mCY6jMzWXopj2K0ARzLX8EMMsSbU36H8sZqMXDLOIw100WjFy7ci3_FLqqScDizpCPnz3I3U_ARghgLa9Ef8EH4n37O1T_LFwDQjfPUQsiCMzjce6xtONRAvI8gF1BanKsaxPWjs9x9fjEXy1G6UeiVAFO2zyoG-5qUUsCFRjtzTlXODTi8KYLbeDbpNYac6vZzhqDcoLCjTebjomoE9EbebOoegflyQDSzL0aWqziL6CfFzodYvmA79Lc5fgGohIMlndHz55A6OaRRlc4WHo3Mt91NVuznxmXzuhy1_lNw8AhxmS4zgAAAAEtYPAnAA",
       "required": false
     },
     "TG_BOT_TOKEN": {
