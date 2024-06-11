@@ -38,7 +38,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "هنا ضع توكن بوتك الذي صنعته",
-      "value": ""
+      "value": "7287402018:AAFVkQitqC7TUh4RUpwJ9eUjzWvUSFvoMJg"
     },
     "HEROKU_API_KEY": {
       "description": "هنا ضع الايبي كي الخاص بحساب هيروكو من هذا الرابط https://dashboard.heroku.com/account",
@@ -52,7 +52,7 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Asia/Baghdad",
+      "value": "Cairo/Africa",
       "required": false
     }
   },
